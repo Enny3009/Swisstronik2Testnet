@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "hardhat-project",
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^3.0.0",
@@ -7,5 +8,10 @@
   "dependencies": {
     "@openzeppelin/contracts": "^4.9.3",
     "@swisstronik/utils": "^1.2.1"
+=======
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.8"
+>>>>>>> 97be9823631705caa7b46ef8b45f3ead09ed5180
   }
 }
